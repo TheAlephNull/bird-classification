@@ -1,4 +1,4 @@
-https://download.pytorch.org/whl/cpu/torch-1.9.1%2Bcpu-cp39-cp39-linux_x86_64.whl
+http://download.pytorch.org/whl/cpu/torch-1.8.1%2Bcpu-cp39-cp39-linux_x86_64.whl
 http://download.pytorch.org/whl/cu102/torchvision-0.9.1-cp39-cp39-linux_x86_64.whl
 fastai
 voila
