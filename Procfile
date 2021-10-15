@@ -1,1 +1,1 @@
-web: voila --port=$PORT --no-browser --enable_nbextensions=True Bird_Classification.ipynb
+web: voila --port=$PORT --no-browser --enable_nbextensions=True Bird-Classification-Deployment.ipynb
